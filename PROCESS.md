@@ -6,4 +6,4 @@ Sprint length: 2 weeks
 
 Sprint 1 goal: Create a functional core that supports workout recording, basic XP, and visible progression.
 
-Project board: https://github.com/users/stogz/projects/3/views/1
+Project board: https://github.com/users/stogz/projects/3/
