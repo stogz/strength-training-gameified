@@ -1,1 +1,1 @@
-# strength-training-gameified
+# strength-training-gamified
